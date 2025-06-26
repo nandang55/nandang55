@@ -50,3 +50,5 @@ Currently focused on building high-quality cross-platform apps using **Flutter**
 
 - 📧 Email: [nandanghermawan55@gmail.com](mailto:nandanghermawan55@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/nandang55](https://linkedin.com/in/nandang55)
+- 📱 WhatsApp: [+62 877-2453-8083](https://wa.me/6287724538083) (Fast Response)
+
