@@ -1,5 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/nandang55?style=social)
-![Top Language](https://img.shields.io/github/languages/top/nandang55)
 
 # 👋 Hi, I'm Nandang Hermawan
 
