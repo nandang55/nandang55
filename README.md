@@ -1,14 +1,10 @@
+![GitHub followers](https://img.shields.io/github/followers/nandang55?style=social)
+![Top Language](https://img.shields.io/github/languages/top/nandang55)
+
 # 👋 Hi, I'm Nandang Hermawan
 
 I'm a Fullstack & Mobile Developer from Indonesia 🇮🇩  
-Currently focused on building high-quality cross-platform apps using **Flutter**, and robust backends with **Laravel** or **Node.js**.
-
-💼 10+ years of experience in software development  
-📱 Specializing in Flutter, Laravel, Node.js, and Firebase  
-🌍 Passionate about remote work, product quality, and lifelong learning
-
-🚀 Currently exploring ways to bring digital solutions to real-world problems  
-🛠️ Let’s connect and build something awesome together!
+Currently focused on building high-quality cross-platform apps using **Flutter**, and robust backend systems with **Laravel** or **Node.js**.
 
 ---
 
@@ -21,7 +17,6 @@ Currently focused on building high-quality cross-platform apps using **Flutter**
 ---
 
 ## 🚀 Flutter Plugin Projects
-
 - [`flutter-plugin-my-image-picker`](https://github.com/nandang55/my_image_picker) – Simple plugin to capture, display, and upload multiple or single images.
 - [`flutter-plugin-image-viewer`](https://github.com/nandang55/my_easy_image_viewer) – Lightweight image previewer with zoom and rotate functionality.
 - [`flutter-plugin-db_migration`](https://github.com/nandang55/db_migration) – SQFlite DB versioning and migration flow made easy for Flutter apps.
@@ -29,15 +24,13 @@ Currently focused on building high-quality cross-platform apps using **Flutter**
 ---
 
 ## 🌐 Fullstack Project Highlights
-
-- [`bagdja_form_mobile`](https://github.com/nandang55/bagdja_form_mobile) – Mobile survey app used by field officers to fill assigned questionnaires.
+- [`bagdja_form_mobile`](https://github.com/nandang55/bagdja_form_mobile) – Mobile survey app for field officers.
 - [`bagdja_form`](https://github.com/nandang55/bagdja_form) – Admin dashboard to manage survey formats and questions.
-- [`bagdja_form_api`](https://github.com/nandang55/bagdja_form_api) – Backend API built with CodeIgniter to support mobile and admin interfaces.
+- [`bagdja_form_api`](https://github.com/nandang55/bagdja_form_api) – Backend API built with CodeIgniter for mobile and admin apps.
 
 ---
 
 ## 📱 Published Apps
-
 - [InovaTrack (Google Play)](https://play.google.com/store/search?q=inovatrack&c=apps&hl=en)
 - [Digilog Scan](https://play.google.com/store/search?q=digilog+scan&c=apps&hl=en)
 - [Unilever Truck Inspection](https://play.google.com/store/apps/details?id=com.enerren.unilever.trucinspection&hl=en)
@@ -46,16 +39,13 @@ Currently focused on building high-quality cross-platform apps using **Flutter**
 ---
 
 ## 📈 Goals
-
-- ✅ Contribute to open-source
-- ✅ Join a remote-first company
+- ✅ Contribute to open-source  
+- ✅ Join a remote-first company  
 - ✅ Build impactful digital products
 
 ---
 
 ## 📫 Connect With Me
-
-- 📧 Email: [nandanghermawan55@gmail.com](mailto:nandanghermawan55@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nandang55](https://linkedin.com/in/nandang55)
-- 📱 WhatsApp: [+62 877-2453-8083](https://wa.me/6287724538083) (Fast Response)
-
+📧 [nandanghermawan55@gmail.com](mailto:nandanghermawan55@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/nandang55)  
+📱 [📞 WhatsApp: +62 812‑2141‑2610 (Fast Response)](https://wa.me/6281221412610)
