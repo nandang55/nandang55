@@ -3,6 +3,13 @@
 I'm a Fullstack & Mobile Developer from Indonesia 🇮🇩  
 Currently focused on building high-quality cross-platform apps using **Flutter**, and robust backends with **Laravel** or **Node.js**.
 
+💼 10+ years of experience in software development  
+📱 Specializing in Flutter, Laravel, Node.js, and Firebase  
+🌍 Passionate about remote work, product quality, and lifelong learning
+
+🚀 Currently exploring ways to bring digital solutions to real-world problems  
+🛠️ Let’s connect and build something awesome together!
+
 ---
 
 ## 🔧 Tech Stack
